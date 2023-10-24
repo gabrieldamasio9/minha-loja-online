@@ -229,3 +229,8 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.botao{
+    padding: 8px;
+    width: 85%;
+    cursor: pointer;
+}
