@@ -179,6 +179,7 @@ body {
 .botao{
     padding: 8px;
     width: 85%;
+    cursor: pointer;
 }
 #github-link {
     text-decoration: none; 
@@ -229,8 +230,4 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.botao{
-    padding: 8px;
-    width: 85%;
-    cursor: pointer;
-}
+
